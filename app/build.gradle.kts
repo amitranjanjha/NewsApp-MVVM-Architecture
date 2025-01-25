@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.amit.newsapp_mvvm_architechture"
-    compileSdk = 34
+    namespace = "com.amit.newsapp"
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.amit.newsapp_mvvm_architechture"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

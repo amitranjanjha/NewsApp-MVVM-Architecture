@@ -1,7 +1,8 @@
-package com.amit.newsapp_mvvm_architechture
+package com.amit.newsapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

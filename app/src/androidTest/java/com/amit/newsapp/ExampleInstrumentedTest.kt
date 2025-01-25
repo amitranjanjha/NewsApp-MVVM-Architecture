@@ -1,4 +1,4 @@
-package com.amit.newsapp_mvvm_architechture
+package com.amit.newsapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
